@@ -1,0 +1,26 @@
+{
+  "name": "projecttm",
+  "version": "1.0.0",
+  "description": "ProjectTM.js backend written using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bean217/ProjectTM.js.git"
+  },
+  "author": "Benjamin Piro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bean217/ProjectTM.js/issues"
+  },
+  "homepage": "https://github.com/bean217/ProjectTM.js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
